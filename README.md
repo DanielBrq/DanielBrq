@@ -1,3 +1,4 @@
+
 <div align="center">
   <h1>Daniel Barquero Cabrera</h1>
   
@@ -25,7 +26,7 @@ Me enfoco en:
 - Integración de inteligencia artificial en aplicaciones web modernas
 - Experiencia full-stack end-to-end
 
-Actualmente implementando soluciones **AI-powered** en proyectos reales (incluyendo integraciones con modelos de lenguaje y procesamiento de datos), siempre priorizando privacidad y seguridad en entornos de cliente.
+Actualmente implementando soluciones **AI-powered** en proyectos incluyendo integraciones con modelos de lenguaje y procesamiento de datos.
 
 Busco oportunidades donde pueda seguir creciendo, contribuir a equipos ágiles y construir productos de alto impacto.
 
@@ -34,10 +35,9 @@ Busco oportunidades donde pueda seguir creciendo, contribuir a equipos ágiles y
 ### 🛠️ Stack Tecnológico Principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,ts,js,nodejs,express,nestjs,dotnet,cs,postgres,mysql,prisma,drizzle,tailwind,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,nuxt,ts,js,nodejs,express,nestjs,dotnet,cs,postgres,mysql,prisma,tailwind,bootstrap,git,github,vscode,docker" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=ai,openai,python,tensorflow,pytorch" />&nbsp;&nbsp;&nbsp;
-  <small>(Integraciones IA + experimentos con LLMs y embeddings)</small>
+
 </div>
 
 **Frontend**  
@@ -64,16 +64,13 @@ Busco oportunidades donde pueda seguir creciendo, contribuir a equipos ágiles y
 ### 📊 Estadísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielBrq&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrq&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrq&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
+<div>
 
+</div>
 ### 🌟 Proyectos Destacados
 
 (Actualmente la algunos de mis proyectos más avanzados son privados por acuerdos con clientes, pero aquí algunos públicos o en proceso:)
