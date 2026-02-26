@@ -1,16 +1,96 @@
-## Hi there 👋
+<div align="center">
+  <h1>Daniel Barquero Cabrera</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas;Full-Stack+Developer;Vue+%2F+React+%2F+TypeScript;AI+Integration+in+Web+Apps;Construyendo+aplicaciones+escalables" alt="Typing SVG" />
+  
+  <br/>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/danielbrq/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
-<!--
-**DanielBrq/DanielBrq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ingeniero en Sistemas egresado de la **Universidad Fidélitas** (Costa Rica).  
+Apasionado por transformar ideas en aplicaciones web funcionales, mantenibles y con excelente experiencia de usuario.
+
+Me enfoco en:
+- Código limpio y buenas prácticas (Clean Code, SOLID, DRY)
+- Arquitectura escalable y rendimiento
+- Integración de inteligencia artificial en aplicaciones web modernas
+- Experiencia full-stack end-to-end
+
+Actualmente implementando soluciones **AI-powered** en proyectos reales (incluyendo integraciones con modelos de lenguaje y procesamiento de datos), siempre priorizando privacidad y seguridad en entornos de cliente.
+
+Busco oportunidades donde pueda seguir creciendo, contribuir a equipos ágiles y construir productos de alto impacto.
+
+---
+
+### 🛠️ Stack Tecnológico Principal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,ts,js,nodejs,express,nestjs,dotnet,cs,postgres,mysql,prisma,drizzle,tailwind,bootstrap,git,github,vscode" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=ai,openai,python,tensorflow,pytorch" />&nbsp;&nbsp;&nbsp;
+  <small>(Integraciones IA + experimentos con LLMs y embeddings)</small>
+</div>
+
+**Frontend**  
+🔹 React • Vue 3 / Nuxt • TypeScript
+🔹 Tailwind CSS • Bootstrap • Pinia 
+
+**Backend**  
+🔹 Node.js (Express • NestJS • H3)  
+🔹 .NET Core • Entity Framework • Dapper • Clerk
+🔹 Bases de datos: PostgreSQL • SQL Server • MySQL  
+🔹 ORM: Prisma • Drizzle
+
+**Autenticación**  
+🔹 Clerk
+🔹 BetterAuth
+
+**Otras herramientas & prácticas**  
+🔹 Git • CI/CD básico • Docker (en aprendizaje)  
+🔹 Clerk
+🔹 BetterAuth
+
+---
+
+### 📊 Estadísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielBrq&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrq&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrq&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
+
+---
+
+### 🌟 Proyectos Destacados
+
+(Actualmente la algunos de mis proyectos más avanzados son privados por acuerdos con clientes, pero aquí algunos públicos o en proceso:)
+
+- **[ovisc](https://github.com/DanielBrq/ovisc)** — Aplicación web desarrollada con Vue.js / Nuxt (en evolución)  
+  Próximamente más proyectos open-source con Nuxt, NestJS y AI features.
+
+---
+
+### 🌱 Actualmente explorando / aprendiendo
+
+- Integraciones avanzadas de LLMs en aplicaciones web
+- Micro-frontends
+- Algoritmo de gráfos
+
+---
+
+<div align="center">
+  <p>📫 Contáctame en <strong><a href="https://www.linkedin.com/in/danielbrq/">LinkedIn</a></strong></p>
+</div>
