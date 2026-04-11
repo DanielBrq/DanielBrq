@@ -58,15 +58,6 @@ Busco oportunidades donde pueda seguir creciendo, contribuir a equipos ágiles y
 🔹 Git • CI/CD básico • Docker (en aprendizaje)  
 🔹 Clerk
 🔹 BetterAuth
-
----
-
-### 📊 Estadísticas GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrq&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
-
 ---
 <div>
 
