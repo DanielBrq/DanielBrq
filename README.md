@@ -58,10 +58,9 @@ Busco oportunidades donde pueda seguir creciendo, contribuir a equipos ágiles y
 🔹 Git • CI/CD básico • Docker (en aprendizaje)  
 🔹 Clerk
 🔹 BetterAuth
----
-<div>
 
-</div>
+---
+
 ### 🌟 Proyectos Destacados
 
 (Actualmente la algunos de mis proyectos más avanzados son privados por acuerdos con clientes, pero aquí algunos públicos o en proceso:)
