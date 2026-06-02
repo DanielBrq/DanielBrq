@@ -67,15 +67,6 @@ Busco oportunidades donde pueda seguir creciendo, contribuir a equipos ágiles y
 
 - **[ovisc](https://github.com/DanielBrq/ovisc)** — Aplicación web desarrollada con Vue.js / Nuxt (en evolución)  
   Próximamente más proyectos open-source con Nuxt, NestJS y AI features.
-
----
-
-### 🌱 Actualmente explorando / aprendiendo
-
-- Integraciones avanzadas de LLMs en aplicaciones web
-- Micro-frontends
-- Algoritmo de gráfos
-
 ---
 
 <div align="center">
