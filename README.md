@@ -61,14 +61,6 @@ Busco oportunidades donde pueda seguir creciendo, contribuir a equipos ágiles y
 
 ---
 
-### 🌟 Proyectos Destacados
-
-(Actualmente la algunos de mis proyectos más avanzados son privados por acuerdos con clientes, pero aquí algunos públicos o en proceso:)
-
-- **[ovisc](https://github.com/DanielBrq/ovisc)** — Aplicación web desarrollada con Vue.js / Nuxt (en evolución)  
-  Próximamente más proyectos open-source con Nuxt, NestJS y AI features.
----
-
 <div align="center">
   <p>📫 Contáctame en <strong><a href="https://www.linkedin.com/in/danielbrq/">LinkedIn</a></strong></p>
 </div>
