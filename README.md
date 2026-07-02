@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.dbarquero.dev" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=D97706&center=true&vCenter=true&width=700&lines=Daniel+Barquero+Cabrera;Senior+Full+Stack+Developer;React+%2F+Vue+%2F+Angular;.NET+Core+%2F+Node.js;AI+%26+Clean+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=D97706&center=true&vCenter=true&width=700&lines=Daniel+Barquero+Cabrera;Full+Stack+Developer;React+%2F+Vue+%2F+Angular;.NET+Core+%2F+Node.js;AI+%26+Clean+Architecture" alt="Typing SVG" />
   </a>
 
   <p>
