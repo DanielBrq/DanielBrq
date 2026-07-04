@@ -63,7 +63,7 @@ Ingeniero en Sistemas graduado de la **Universidad Fidélitas** con enfoque en d
 - App Full Stack con **Nuxt.js** para gestión de rutinas de entrenamiento e historial progresivo.
 - Generación de propuestas mediante **IA**, reduciendo en **30%** el tiempo de creación de rutinas.
 - Persistencia histórica para seguimiento de progreso por usuario.
-- Despliegue en **VPS Ubuntu** con **Dokploy** y **Cloudflare Tunnels**.
+- Despliegue en Railway.
 - Landing page para **Legacy Gym** mejorando visibilidad local en Google.
 
 ---
