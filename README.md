@@ -95,7 +95,7 @@ Ingeniero en Sistemas graduado de la **Universidad Fidélitas** con enfoque en d
   <p>
     <a href="https://www.dbarquero.dev" target="_blank">🌐 Portfolio</a> ·
     <a href="https://www.linkedin.com/in/danielbrq/" target="_blank">💼 LinkedIn</a> ·
-    <a href="mailto:daniel.barquero.dev@gmail.com">📧 Email</a>
+    <a href="mailto:dbarquero.dev@gmail.com">📧 Email</a>
   </p>
   <sub>© 2026 Daniel Barquero Cabrera · Hecho con 💻 desde Costa Rica</sub>
 </div>
