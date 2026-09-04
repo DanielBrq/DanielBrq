@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Costa_Rica-Alajuela-00A94F?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </p>
 
-  <sub>📬 Available for opportunities · Remote / Hybrid (Costa Rica)</sub>
+  <sub>📬 Available for opportunities</sub>
 </div>
 
 ---
@@ -70,11 +70,11 @@ Computer Systems Engineer graduated from **Universidad Fidélitas**. Experienced
 **🔗 [Personal Portfolio](https://www.dbarquero.dev)** — Portfolio
 `Nuxt.js` `TailwindCSS` `TypeScript` `i18n`
 
-**🔗 [Tessera](https://github.com/DanielBrq/Tessera)** — Full Stack app with Nuxt 3
-`Nuxt.js` `TypeScript` `PostgreSQL` `Drizzle`
+**🔗 [Tessera](https://github.com/DanielBrq/Tessera)** — Full Stack app with Nuxt 4
+`Nuxt.js` `TypeScript`
 
 **🔗 [LinkedInPlus](https://github.com/DanielBrq/LinkedInPlus)** — Chrome extension to enhance LinkedIn
-`TypeScript` `Chrome Extension` `Manifest V3`
+`JavaScript` `Chrome Extension` `Manifest V3`
 
 ---
 
